@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+#id_example_1 {
+    color: #000FFF;
+    font-size: 36px;
+}
+
+#id_example_2 {
+    background-color: #88E788;
+    font-weight: bold;
+}
+
+.class_example {
+    background-color: #FFC0CB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger_font {
+    font-size: 24px;
+}
